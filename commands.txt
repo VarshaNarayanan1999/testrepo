@@ -1,4 +1,6 @@
 git init-to initialise git
 git status-list all untracked files
 git add -A  adding file from local storage to staging area
-git commit  saving file/changes to local storage
+git commit  saving file
+git remote add name path
+git push -u name branch
